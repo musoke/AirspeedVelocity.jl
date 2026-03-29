@@ -43,7 +43,7 @@ You can install the CLI with:
 julia -e 'using Pkg; Pkg.activate(temp=true); Pkg.add("AirspeedVelocity"); Pkg.build("AirspeedVelocity")'
 ```
 
-This will install two executables at `~/.julia/bin` - make sure to have it on your `PATH`.
+This will install three executables at `~/.julia/bin` - make sure to have it on your `PATH`.
 
 ## Examples
 
